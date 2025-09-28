@@ -1,0 +1,12 @@
+# Python cache / venv
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Database locali (non committare i tuoi .db)
+*.db
+
+# Ambiente/OS
+.DS_Store
+Thumbs.db
